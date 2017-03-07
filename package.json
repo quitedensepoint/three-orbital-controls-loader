@@ -6,7 +6,9 @@
     "bugs": {
         "url": "https://github.com/quitedensepoint/three-orbit-controls-loader/issues"
     },
-    "dependencies": {},
+    "dependencies": {
+        "three": "^0.84.0"
+    },
     "description": "NodeJS wrapper for Three.js' OrbitControls example function",
     "devDependencies": {
         "babel-core": "^6.2.1",
